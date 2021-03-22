@@ -5,7 +5,7 @@ url='https://wiki.ros.org/rosauth'
 pkgname='ros-melodic-rosauth'
 pkgver='1.0.1'
 arch=('i686' 'x86_64' 'aarch64' 'armv7h' 'armv6h')
-pkgrel=3
+pkgrel=4
 license=('BSD')
 
 ros_makedepends=(
